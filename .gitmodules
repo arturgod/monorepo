@@ -1,3 +1,6 @@
 [submodule "subrepo"]
 	path = subrepo
 	url = https://github.com/arturgod/subrepo.git
+[submodule "FErepo"]
+	path = FErepo
+	url = https://github.com/arturgod/FErepo.git
